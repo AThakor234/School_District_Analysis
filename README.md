@@ -7,14 +7,20 @@
 - To aggregate the data and showcase trends in school performance.
 
 ## Summary
-  Analysis of the data are followed in steps:
+
+ ### Analysis of the data are followed in steps:
+ 
   1. Collecting of data
     Imported the data from new_full_student_data.csv file into Dataframe named student_df by using Pandas read_csv and the os module.
+    
   2. Preparing Data
+  
     - Checking Missing values: There were total 1968 null values in reading_score and 982 in math_score.
     - Checking Duplicate values: There were total 1836 total duplicates values.
     - Checking the Data types : Changed the datatypes of grade from float to int
   3. Summarize the Data
+
+
     - Generated the statistic summary of student_df by using describe function
     - Summary statistics of Grade 9 is as below:
       Count : 4132
