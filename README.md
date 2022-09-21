@@ -35,7 +35,7 @@
     - Total number of students by school_name : Montgomery High School has highest student(2038).
     - Average Math score by grade and school_type:
       Grade 9 from Charter school type has average of 70.00 
-      Grade 9 from Public school typer has average of 64.00
+      Grade 9 from Public school type has average of 64.00
       
    ### Additional Analysis
    
